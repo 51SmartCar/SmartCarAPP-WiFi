@@ -1,0 +1,200 @@
+/* 
+  Localizable.strings
+  CloudCompanion
+  Copyright (c) 2015年 rak. All rights reserved.
+*/
+"voice_indicator_text"="Please goto 'Settings-privacy-microphone' to allow RAK device access to your microphone";
+"voice_indicator_btn"="OK";
+"add_device_step1_ap_connect_failed"="Connect to RAK device failed,try again";
+"add_device_step1_ap_connect_title"="Connect to RAK device";
+"add_device_step1_ap_connect_text"="Connecting to RAK device...";
+"add_device_step3_ap_title"="APConfig";
+"add_device_step3_ap_text"="APConfig to add local RAK device";
+"add_device_step3_ap_note"="1.Goto \"Settings-WLAN\"\n2、Let the phone to join the network have configured\n3、Back to here and click \"NEXT\" to find the RAK device have configured";
+"add_device_step3_ap_btn"="NEXT";
+"add_device_step3_ap_admin_connect_failed"="Please goto 'Settings-WLAN',let phone connect to ";
+"add_device_failed_ap_note"="Can't find RAK device...\nBack to retry";
+"add_device_step3_title_ap"="Searching RAK device,please wait...";
+
+"app_name"="RAKVideo";
+"action_settings"="Settings";
+
+"main_help"="HELP";
+"main_scan_indicator_title"="Search RAK Device";
+"main_scan_indicator"="Searching RAK Device...";
+
+"add_device_step0_title"="Add RAK Device";
+"add_device_step0_local_title"="Local RAK Device";
+"add_device_step0_local_text"="Configure local RAK Device connect to the network that the phone had connected";
+"add_device_step0_remote_title"="Remote RAK Device";
+"add_device_step0_remote_text"="Monitor RAK Device in remote way by RAK Device remote id";
+
+"add_device_step01_title"="Add local RAK Device";
+"add_device_step01_easy_title"="Easyconfig";
+"add_device_step01_easy_text"="Use Easyconfig to configure local RAK Device connect to the network that the phone had connected";
+"add_device_step01_ap_title"="APConfig";
+"add_device_step01_ap_text"="Use APConfig to configure local RAK Device connect to a network";
+
+"add_device_step1_ap_title"="APConfig";
+"add_device_step1_ap_text"="APConfig to add local RAK Device";
+"add_device_step1_ap_note"="1.Press \"Easyconfig\" button last 5s,then factory\n2、Open WLAN to join the AP created by RAK device\n3、Back to here and click \"NEXT\" to continue";
+"add_device_step1_ap_btn"="NEXT";
+"add_device_step1_ap_admin_title"="Local RAK Device";
+"add_device_step1_ap_admin_failed"="Not found local RAK Device";
+"add_device_step1_ap_wifi_failed"="Please open WLAN first";
+"add_device_step1_ap_admin_connect_title"="Connect to RAK Device";
+"add_device_step1_ap_admin_connect_text"="Connecting to RAK Device";
+"add_device_step1_ap_admin_connect_ok"="Connect to RAK Device success";
+"add_device_step1_ap_admin_connect_failed"="Connect to RAK Device failed,back to try again";
+
+"add_device_step2_ap_note"="1.Click pull-image to choose a network\n2.Input the password of the Wi-Fi network\n3.Click \"NEXT\" to configure RAK Device";
+"add_device_step2_ap_scan_title"="Get WiFi List";
+"add_device_step2_ap_scan_text"="Getting WiFi List...";
+"add_device_step2_ap_scan_failed"="Get WiFi List timeout";
+"add_device_step2_ap_config_title"="Configure Rakvideo";
+"add_device_step2_ap_config_text"="Configuring Rakvideo...";
+"add_device_step2_ap_config_failed"="Configure Rakvideo timeout";
+
+"add_device_remote_title"="Add remote RAK Device";
+"add_device_remote_text"="Add remote RAK Device";
+"add_device_remote_note"="1. Input RAK Device remote id\n2. Click \'Add\' button to add remote RAK Device";
+"add_device_remote_id_hint"="Input RAK Device id";
+"add_device_remote_name_hint"="Input RAK Device name";
+"add_device_remote_id_error"="RAK Device id can not be empty";
+"add_device_remote_name_error"="RAK Device name can not be empty";
+"add_device_remote_success"="Add RAK Device success";
+"add_device_remote"="Add";
+
+"add_device_step1_device1"="RAK Device UFO";
+"add_device_step1_device2"="RAK Device bike";
+"add_device_step1_title"="Easyconfig";
+"add_device_step1_text"="Easyconfig to add local RAK Device";
+"add_device_step1_note"="1. Powered to RAK Device last 30s\n2. Input the password of current Wi-Fi\n3. Click \"NEXT\" to configure RAK Device connect to the network";
+"add_device_step1_wifi"="Wi-Fi SSID：";
+"add_device_step1_psk"="Wi-Fi PSK：";
+"add_device_step1_wifi_hint"="Input Wi-Fi SSID";
+"add_device_step1_psk_hint"="Input Wi-Fi PSK";
+"add_device_step1_ssid_error"="SSID is invalid";
+"add_device_step1_net_error"="Have not connect to Wi-Fi";
+"add_device_next"="NEXT";
+"add_device_step2_note"="1. Press the button Easyconfig last 1s\n2. Click \"NEXT\" to start configuration";
+"add_device_step3_text"="Connect to RAK Device，please wait...";
+"add_device_failed"="Network is unreachable...\nBack to retry";
+"add_device_failed_ap"="Goto APConfig";
+"add_device_failed1"="Password error...\nBack to retry";
+"add_device_failed2"="Configure failed...\nBack to retry";
+"add_device_failed3"="Local scan RAK Device failed...\nBack to retry";
+"add_device_success_title"="Configure RAK Device";
+"add_device_success_name_hint"="Named my RAK Device";
+"add_device_success_psk_hint"="Input password";
+"add_device_success_confirm_hint"="Confirm password";
+"add_device_success"="Configure";
+"add_device_success_name_error"="RAK Device name can not be empty";
+"add_device_success_psk_error"="RAK Device password can not be empty";
+"add_device_success_confirm_error"="Confirm password can not be empty";
+"add_device_success_psk_different"="Two passwords are different";
+"add_device_success_show"="Add RAK Device Success";
+"add_device_failed_show"="Add RAK Device failed";
+"modify_device_success_psk_error"="Password is error";
+"modify_device_success_name"="The new name of RAK Device is: ";
+"modify_device_success_delete"="Delete RAK Device success";
+"modify_device_delete_title"="Delete RAK Device";
+"modify_device_delete_text"="Are sure to delete RAK Device？";
+"modify_device_delete_ok"="OK";
+"modify_device_delete_cancel"="Cancel";
+"add_device_list_name"="Add";
+"device_connect_network_error"="Connect to RAK Device failed";
+"device_connect_psk_empty"="Connect password can not be empty";
+"device_connect_psk_check"="Checking password...";
+"device_connect_psk_check_title"="Check password";
+"video_name"="Name:";
+"video_auto"="Auto";
+"video_VHD"="VHD";
+"video_HD"="HD";
+"video_BD"="BD";
+"video_HD_ok"="It is already HD mode";
+"video_BD_ok"="It is already BD mode";
+"video_settings_psk_hint"="Input password";
+"video_settings_confirm_psk_hint"="Input new password";
+"video_settings_btn"="Modify";
+"video_set_sd_time_error"="Update SD-Card record time failed";
+"video_take_photo_text"="Photo is saved to album";
+"video_record_text"="Video is saved to album";
+"video_settings_psk_text"="RAK Device password can not be empty";
+"video_settings_new_psk_text"="New password can not be empty";
+"video_settings_new_psk_error"="Modify password failed";
+"video_settings_new_psk_success"="Modify password success";
+"device_connect_back_title"="Connect RAK Device";
+"device_connect_psk_hint"="Default password \'admin\'";
+"device_connect_psk"="Password: ";
+"device_connect_btn"="Connect";
+"device_connect_forget_psk"="Forget password? ";
+"device_connect_forget_psk_indicator"="Press \"Easyconfig\" button last 5s, then factory(default password:admin) ";
+"device_connectting_text"="Connecting,please wait...";
+"device_modify_title"="Modify RAK Device";
+"device_modify_name_hint"="Input the new name of RAK Device";
+"device_modify_psk_hint"="Input password";
+"device_modify_btn"="Modify";
+"device_modify_indicator_title"="Modify password";
+"device_modify_indicator_text"="Modifying password...";
+"device_modify_copy_text"="Copy RAK Device ID";
+"device_modify_copy_text_success"="RAK Device ID has been copied";
+"device_modify_id_text"="RAK Device ID";
+"device_delete_btn"="Delete";
+"device_connect_failed_text"="Connect failed~~~\nBack to retry";
+
+"exit_app"="Press once more to exit";
+
+"help_title"="HELP";
+"help_text_2"="The product works in 2 modes:\n1. Direct connect mode\n2. Configure to router mode\nStart the product need 30s, you can see LED indicator or hear the voice indicator.\n(Note:You should factory the device when first time to use,or you can not find the AP of the device.Press \"Easyconfig\" last 5s to factory the device.)";
+"help_text_3_title"="1. Direct connect mode";
+"help_text_3_text"="1. After the product started,open WiFi of the phone you will see a network like as LTH-******,connect to it.\n2. Open APP,you can see the product on the list in app,click it to watch video.\n3. The first you need to input password\n(default password is:admin,you can modify the password,if you forget password,press \"Easyconfig\" on the product 5s to factory mode)";
+"help_text_4_title"="2. Configure to router mode";
+"help_text_4_text"="1. After the product started,make sure the phone connect to a network,then open APP begin to configure.\n2. Click Add,then input the password of the network,click \"NEXT\".\n3. After hear indicator press \"Easyconfig\",then click \"NEXT\" begin to configure.\n4. When configure success,it will tell you to named the product,named it and click \"Add\" to add it.\n5. The first you need to input password\n(default password is:admin,you can modify the password,if you forget password,press \"Easyconfig\" on the product 5s to factory mode)";
+"help_text_end"="Solemn declaration:For personal privacy and secure,please modify the password and please be sure to comply with local laws, appropriate use of this product!";
+
+"device_media_title"="Photo and Video";
+"device_photo_text"="Photo";
+"device_photo_note"="Playback the photos have taken";
+"device_video_text"="Video";
+"device_video_note"="Playback the videos have recorded ";
+"photo_text"="Photo";
+"video_text"="Video";
+"edit_text"="Edit";
+"delete_text"="Delete";
+"delete_photo_title_note"="Delete photo";
+"delete_video_title_note"="Delete video";
+"delete_photo_admin_note"="Are you sure to delete these photos?";
+"delete_video_admin_note"="Are you sure to delete these videos?";
+
+"device_settings_version_title"="Version Information";
+"device_settings_version_app"="APP Version:";
+"device_settings_version_fw"="FW Version:";
+"device_settings_psk_title"="Modify Password";
+"device_settings_parameter_title"="Parameter Settings";
+"device_settings_parameter_fps"="FPS:";
+"device_settings_parameter_quality"="QUALITY:";
+"device_settings_parameter_gop"="GOP:";
+"device_settings_parameter_fps_empty"="FPS can not be empty";
+"device_settings_parameter_quality_empty"="QUALITY can not be empty";
+"device_settings_parameter_gop_empty"="GOP can not be empty";
+"device_settings_parameter_fps_failed"="Set FPS failed";
+"device_settings_parameter_quality_failed"="Set QUALITY failed";
+"device_settings_parameter_gop_failed"="Set GOP failed";
+"device_settings_parameter_success"="Set parameter success,be valid after reset module";
+
+"device_uart_send_area"="Send data area";
+"device_uart_recv_area"="Recv data area";
+"device_uart_send_num"="Send Bytes:";
+"device_uart_recv_num"="Recv Bytes:";
+"device_uart_send_btn"="Send";
+"device_uart_clear_btn"="Clear";
+"uart_connect_success"="Socket connect success";
+"uart_connect_failed"="Socket connect failed";
+
+"device_connect_video_type"="Choose video formart";
+"device_connect_video_h264"="H264 Formart";
+"device_connect_video_mjpeg"="MJPEG Formart";
+
+"device_one_screen"="One Screen";
+"device_two_screen"="Two Screen";
