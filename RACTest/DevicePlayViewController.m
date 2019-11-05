@@ -35,7 +35,6 @@
 #define MyDeviceUDID @"07003F86-B2AB-D458-EB66-A230B683852B"
 
 
-
 LX520View *_videoView;
 NSString *_qualityHD=@"h264";
 NSString *_qualityBD=@"h264-1";

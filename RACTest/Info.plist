@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>SmartCarWiFi</string>
+	<string>$(PRODUCT_NAME)</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -24,6 +24,8 @@
 	<true/>
 	<key>NSAppleMusicUsageDescription</key>
 	<string>是否允许此APP访问你的媒体资料？</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>App需要您的同意,才能访问蓝牙，您的蓝牙设备将用于智能家居控制</string>
 	<key>NSCameraUsageDescription</key>
 	<string>是否允许此APP使用你的相机？</string>
 	<key>NSMicrophoneUsageDescription</key>
