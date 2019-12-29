@@ -1,0 +1,22 @@
+#邮箱标题
+TMEMAIL_SUBJECT=【项目】SMARTCAR提测
+
+#APP环境
+TMEMAIL_ENV=UAT
+
+#APP数量
+TMEMAIL_COUNT=1个
+
+#提测newfeature
+TMEMAIL_NEWFEATHER=1、是否爽肤水的 2、所发生的佛挡杀佛 3、水电费水电费是的订单
+
+#提测其他变更
+TMEMAIL_OTHER=1、bugfix
+
+#APP FIR下载地址-密码-二维码
+TMEMAIL_FIRURL=https://fir.im/SMARTCAR
+TMEMAIL_FIRPWD= tima123
+TMEMAIL_FIRRQRCODE=https://fir.im/SMARTCAR
+
+#依赖模块
+TMEMAIL_REQURED= 无
