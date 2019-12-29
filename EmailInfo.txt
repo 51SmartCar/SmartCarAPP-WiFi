@@ -1,3 +1,21 @@
+
+# 获取项目名称
+__PROJECT_NAME=`find . -name *.xcodeproj | awk -F "[/.]" '{print $(NF-1)}'`
+
+# 已经指定Target的Info.plist文件路径
+__CURRENT_INFO_PLIST_NAME="RACTest/Info.plist"
+
+# 获取 Info.plist 路径
+__CURRENT_INFO_PLIST_PATH="${__PROJECT_NAME}/Resouce/Plist/${__CURRENT_INFO_PLIST_NAME}"
+
+
+# 获取版本号
+__BUNDLE_VERSION=`/usr/libexec/PlistBuddy -c "Print CFBundleShortVersionString" ${__CURRENT_INFO_PLIST_PATH}`
+
+# 获取编译版本号
+__BUNDLE_BUILD_VERSION=`/usr/libexec/PlistBuddy -c "Print CFBundleVersion" ${__CURRENT_INFO_PLIST_PATH}`
+
+
 #邮箱标题
 TMEMAIL_SUBJECT=【项目】SMARTCAR提测
 
