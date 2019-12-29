@@ -1,6 +1,9 @@
 #邮箱标题
 TMEMAIL_SUBJECT=【项目】SMARTCAR提测
 
+#内容标题
+TMEMAIL_TITLE=一汽大众EBO APP（iOS）
+
 #APP环境
 TMEMAIL_ENV=UAT
 
