@@ -1,5 +1,5 @@
 # 邮箱收件人
-TMEMAIL_EMAIL= guntertien <guntertien@163.com>;
+TMEMAIL_EMAIL= guntertien<guntertien@163.com>;
 
 # 邮箱标题
 TMEMAIL_SUBJECT=【ARCFOX-车联网版本】APP提测
