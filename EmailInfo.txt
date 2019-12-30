@@ -1,5 +1,5 @@
 # 邮箱收件人
-TMEMAIL_EMAIL=163:guntertien@163.com, bcc:guntertien@gmail.com
+TMEMAIL_EMAIL=163:guntertien@163.com; bcc:guntertien@gmail.com
 
 # 邮箱标题
 TMEMAIL_SUBJECT=【ARCFOX-车联网版本】APP提测
