@@ -1,14 +1,14 @@
 # 邮箱收件人
-TMEMAIL_EMAIL=鲍圣祥 <guntertien@163.com>; 赵俊飞 <guntertien@gmail.com>
+TMEMAIL_EMAIL=guntertien@163.com;guntertien@gmail.com
 
 # 邮箱标题
 TMEMAIL_SUBJECT=【ARCFOX-车联网版本】APP提测
 
 # 内容标题
-TMEMAIL_TITLE=ARCFOX车联网版本-iOS
+TMEMAIL_TITLE=SmartCar
 
 # APP名称
-TMEMAIL_APPNAME=ARCFOX极狐
+TMEMAIL_APPNAME= SmartCar
 
 # 版本号
 TMEMAIL_VERSION=1.2.7.13

@@ -1,0 +1,45 @@
+# 邮箱收件人
+TMEMAIL_EMAIL=arcfox@timanetworks.com; bing.shi@timanetworks.com; shenglin.yang@timanetworks.com; changliang.liu@timanetworks.com;liwei.chen@timanetworks.com; yuewen.hu@timanetworks.com; guan.wang@timanetworks.com;junfei.zhao@timanetworks.com;
+
+# 邮箱标题
+TMEMAIL_SUBJECT=【ARCFOX-车联网版本】APP提测
+
+# 内容标题
+TMEMAIL_TITLE=ARCFOX车联网版本-iOS
+
+# APP名称
+TMEMAIL_APPNAME=ARCFOX极狐
+
+# 版本号
+TMEMAIL_VERSION=1.2.7.13
+
+# 编译号
+TMEMAIL_BUILD=1
+
+#APP环境
+TMEMAIL_ENV=UAT
+
+# APP数量
+TMEMAIL_COUNT=1个
+
+# 依赖模块
+TMEMAIL_REQURED=无
+
+# new feature
+TMEMAIL_NEWFEATHER=1、增加个人中心 百度授权功能  测试中
+
+# FIR/蒲公英的下载地址
+TMEMAIL_APPURL=https://www.pgyer.com/TSP_IOS
+
+# FIR/蒲公英的 密码
+TMEMAIL_APPPWD= tima123
+
+# FIR/蒲公英的 二维码（蒲公英直接填入二维码的地址，fir填入base64的图片数据）
+TMEMAIL_APPRQRCODE=https://www.pgyer.com/app/qrcode/TSP_IOS
+
+# 其他变更
+TMEMAIL_OTHER=无
+
+# 特殊说明
+TMEMAIL_ATTENTION=无
+
